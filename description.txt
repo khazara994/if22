@@ -398,14 +398,105 @@
 			4h 0-6PC, 5+♥, 5+♠ bez aspiracji
 			4nt około 9-11 PC, inwit do 6nt
 	2nt Transfer na 3♣ - SO na ♣ // 5+♣ + 4♦ bez aspiracji szlemikowych // 5+♣ + 4♥/♠ GF+ // Aspiracje szlemikowe na 6+♣
+		3c Automat
+			pas 0-3 PC, SO na 5+♣
+			3d 4-8PC, 5+♣ + 4♦
+			3h 4+PC, 5+♣ + 4♥
+			3s 4+PC, 5+♣ + 4♠
+			3nt 4-8PC, 6+♣, bez aspiracji szlemikowych
+			4c 9+PC, 6+♣, bez krótkości, aspiracje szlemikowe
+			4d 9+PC, 6+♣, krótkość ♦, aspiracje szlemikowe
+			4h 9+PC, 6+♣, krótkość ♥, aspiracje szlemikowe
+			4s 9+PC, 6+♣, krótkość ♠, aspiracje szlemikowe
 	3c Transfer na 3♦ - SO na ♦ // 5+♦ + 4+♣ bez aspiracji szlemikowych // 5+♦ + 4♥/♠ GF+ // Aspiracje szlemikowe na 6+♦
+		3d Automat
+			pas 0-3 PC, SO na 5+♦
+			3h 4+PC, 5+♦ + 4♥
+			3s 4+PC, 5+♦ + 4♠
+			3nt 4-8PC, 5+♦ + 4+♣ , bez aspiracji szlemikowych
+			4c 9+PC, 6+♦, krótkość ♣, aspiracje szlemikowe
+			4d 9+PC, 6+♦, bez krótkości, aspiracje szlemikowe
+			4h 9+PC, 6+♦, krótkość ♥, aspiracje szlemikowe
+			4s 9+PC, 6+♦, krótkość ♠, aspiracje szlemikowe
 	3d Transfer na ♥ - Aspiracje szlemikowe, możliwy kolor młodszy 4+	
+		3h 3-4♥, nie wyklucza szlemika
+		3s 2♥ + 4-5♠
+		3nt 2♥ + 2-3♠
+			4c Naturalne, poszukiwanie drugiego koloru do gry
+			4d Naturalne, poszukiwanie drugiego koloru do gry
+			4h Do gry
+			4s BW5 na ♥
+			4nt Inwit do 6NT
+		4c Maksimum, 4♥, zgrupowanie wartości ♣
+		4d Maksimum, 4♥, zgrupowanie wartości ♦
+		4h Minimum, 3-4♥, złe wartości do szlemika
 	3h Transfer na ♠ - Siła na końcówkę // aspiracje szlemikowe, możliwy kolor młodszy 4+
+		3s 3-4♠, nie wyklucza szlemika
+		3nt 2♠
+			4c Naturalne, poszukiwanie drugiego koloru do gry
+			4d Naturalne, poszukiwanie drugiego koloru do gry
+			4h Retransfer, przygotowanie SO albo BW5
+			4s 6+♠, lekki inwit
+			4nt Inwit do 6NT
+		4c Maksimum, 4♠, zgrupowanie wartości ♣
+		4d Maksimum, 4♠, zgrupowanie wartości ♦
+		4h Maksimum, 4♠, zgrupowanie wartości ♥
+		4s Minimum, 3-4♠, złe wartości do szlemika	
 	3s Transfer na 3NT - chęć gry 3NT // aspiracje szlemikowe na obu młodszych
+		3nt Automat
+			Pas Chciałem grać 3NT
+			4c 4♣ + 5+♦, aspiracje szlemikowe
+				4d BW6 na uzgodnionych ♦, pomocnicze ♣
+				4h BW6 na uzgodnionych ♣, pomocnicze ♦
+				4nt Negatywne, przewartościowania w ♥+♠
+					5c BW6 na uzgodnionych ♦, pomocnicze ♣
+					5d Do gry
+					5h renons ♥, BW5 wyłączeniowy
+					5s renons ♠, BW5 wyłączeniowy
+				5c Minimum, propozycja
+				5d Minimum, propozycja
+			4d 5+♣ + 4♦, aspiracje szlemikowe
+				4h BW6 na uzgodnionych ♣, pomocnicze ♦
+				4s BW6 na uzgodnionych ♦, pomocnicze ♣
+				4nt Negatywne, przewartościowania w ♥+♠
+					5c Do gry
+					5d BW6 na uzgodnionych ♣, pomocnicze ♦
+					5h renons ♥, BW5 wyłączeniowy
+					5s renons ♠, BW5 wyłączeniowy
+				5c Minimum, propozycja
+				5d Minimum, propozycja
 	3nt Aspiracje szlemikowe 1♠444
+		4c BW5 na ♣
+		4d BW5 na ♦
+		4h Minimum, propozycja
+		4s BW5 na ♥
+		4nt Minimum, propozycja
+		5c Minimum, propozycja
+		5d Minimum, propozycja
 	4c Aspiracje szlemikowe 4441♣
+		4d BW5 na ♦
+		4h Minimum, propozycja
+		4s Minimum, propozycja
+		4nt Minimum, propozycja
+		5c BW5 na ♥
+		5d Minimum, propozycja
+		5h BW5 na ♠
 	4d Aspiracje szlemikowe 441♦4
+		4h Minimum, propozycja
+		4s Minimum, propozycja
+		4nt Minimum, propozycja
+		5c Minimum, propozycja
+		5d BW5 na ♣
+		5h BW5 na ♥
+		5s BW5 na ♠
 	4h Aspiracje szlemikowe 41♥44
+		4s Minimum, propozycja
+		4nt Minimum, propozycja
+		5c Minimum, propozycja
+		5d Minimum, propozycja
+		5h BW5 na ♣
+		5s BW5 na ♦
+		5nt BW5 na ♠
 2s 6-10 5+♠ + 5+♣/♦
 	2nt F1, lepsza ręka niż 3♣ // GF+
 		3c 5+♣, przy układach innych niż 5-5 ręka niemaksymalna
@@ -592,8 +683,7 @@
 4d naturalne, blokujące
 4h naturalne, blokujące
 4s naturalne, blokujące
-4nt Pytanie o asy na 4 wartości 
-
+4nt Pytanie o asy na 4 wartości
 @Zmiany otwarć na 3-cim ręku (po pasie partnera):
 !1h może być zarówno podlimitowe, jak i 4-kart na wist
 !1s może być zarówno podlimitowe, jak i 4-kart na wist
@@ -604,7 +694,7 @@
 @2. BW6 - Blackwood na 6 wartości
 	@1 szczebel - 1 lub 4 wartości
 	@2 szczebel - 0 lub 3 wartości
-	@3 szczebel - 2 wartości bez obu dam
+	@3 szczebel - 2 wartości bez obu dam		
 	@4 szczebel - 2 wartości z damą koloru głównego
 	@5 szczebel - 2 wartości z damą koloru pomocniczego
 	@6 szczebel - 2 wartości z obiema damami
