@@ -303,9 +303,103 @@
 2h 21-22 BAL
 	pas Dopuszczalny z 4-6 ♥ i bardzo słabej karcie
 	2s Transfer na 2NT - SO na 2NT/3♠ // Inwit na ♥ // Przygotowanie dalszego opisu ręki/pytań w sile ok. na końcówkę
+		2nt Automat
+			pas Gramy 2nt
+			3c 4+PC, Puppet Stayman, także aspiracje w składzie równym
+				3d 4♥ i/albo 4♠
+					3h 4♠
+					3s Transfer na 3NT, także aspiracje szlemikowe w składzie równym.
+						3NT Automat
+							4c Aspiracje z 4-5♣
+								4d Mam 4-5♦
+								4h uzgodnienie ♣, CueBid ♥
+								4s uzgodnienie ♣, CueBid ♠
+								4nt brak uzgodnienia, raczej dużo punktów w ♥+♠
+							4d Aspiracje z 4-5♦
+								4h uzgodnienie ♦, CueBid ♥
+								4s uzgodnienie ♦, CueBid ♠
+								4nt brak uzgodnienia, raczej dużo punktów w ♥+♠
+					3nt 4♥, siła na końcówkę, NF
+					4c 4♥, Aspiracje szlemikowe
+					4d 4♥+4♠, Aspiracje szlemikowe
+					4h 4♥+4♠, siła na końcówkę, NF
+				3h 5♥
+				3s 5♠
+				3nt Brak 4-5♥ albo 4-5♠
+					4c Aspiracje z 4-5♣
+						4d Mam 4-5♦
+						4h uzgodnienie ♣, CueBid ♥
+						4s uzgodnienie ♣, CueBid ♠
+						4nt brak uzgodnienia, raczej dużo punktów w ♥+♠
+					4d Aspiracje z 4-5♦
+						4h uzgodnienie ♦, CueBid ♥
+						4s uzgodnienie ♦, CueBid ♠
+						4nt brak uzgodnienia, raczej dużo punktów w ♥+♠
+			3d 0-8PC, 5+♥, co najmniej Inwit!
+				3h Przyjęcie transferu, minimum otwarcia/brak fitu ♥
+					3s 5+♥ + 4♠
+					3nt Naturalne, NF
+					4c 0-1♣, 5+♥ + 4+♠, aspiracje szlemikowe
+						4d CueBid ♦, uzgodnienie ♥
+						4h NF, fit ♥
+						4s NF, 4♠
+						4nt NF, zła karta do szlemika, punkty raczej w kolorach młodszych
+						5c BW5 na ♥
+						5d BW5 na ♠
+					4d 0-1♦, 5+♥ + 4+♠, aspiracje szlemikowe
+						4h NF, fit ♥
+						4s NF, 4♠
+						4nt NF, zła karta do szlemika, punkty raczej w kolorach młodszych
+						5c BW5 na ♥
+						5d BW5 na ♠
+					4h 6+♥, bez aspiracji		
+			3h 0-8PC, 5+♠, może być SO!
+				3s przyjęcie transferu
+					3nt Naturalne, NF
+					4c 0-1♣, 5+♠ + 4+♥, aspiracje szlemikowe
+						4d CueBid ♦, uzgodnienie ♠
+						4h NF, 4♥
+						4s NF, fit ♠
+						4nt NF, zła karta do szlemika, punkty raczej w kolorach młodszych
+						5c BW5 na ♥
+						5d BW5 na ♠
+					4d 0-1♦, 5+♠ + 4+♥, aspiracje szlemikowe
+						4h NF, 4♥
+						4s NF, fit ♠
+						4nt NF, zła karta do szlemika, punkty raczej w kolorach młodszych
+						5c BW5 na ♥
+						5d BW5 na ♠
+					4h 5♠ + 5♥, aspiracje szlemikowe
+						pas Do gry
+						4s Do gry
+						4nt NF, zła karta do szlemika, punkty raczej w kolorach młodszych
+						5c BW5 na ♥
+						5d BW5 na ♠
+			3s 0-4PC, 5♠ + 5+♣/♦
+				3nt do gry
+				4c Pasuj albo popraw na 4♦
+				4d Pasuj z ♦ albo licytuj z ♣
+					4h CueBid ♥, lepsza ręka
+					4s CueBid ♠, lepsza ręka
+					5c Minimum
+				4s Do gry
+				5c Pasuj albo popraw	
+			3nt 9+PC, 5+♣ + 5+♦ Aspiracje szlemikowe F1
+				4c BW6 na ♣, ♦ pomocnicze
+				4d BW6 na ♦, ♣ pomocnicze
+				4h CueBid ♥, obawa o ♠
+					4s CueBid ♠
+					5c Brak CueBidu ♠
+				4s CueBid ♠, obawa o ♥
+					4nt CueBid ♥
+					5c Brak CueBidu ♥
+			4c 0-4PC, 5♥ + 5+♣ NF
+			4d 0-4PC, 5♥ + 5+♦ NF
+			4h 0-6PC, 5+♥, 5+♠ bez aspiracji
+			4nt około 9-11 PC, inwit do 6nt
 	2nt Transfer na 3♣ - SO na ♣ // 5+♣ + 4♦ bez aspiracji szlemikowych // 5+♣ + 4♥/♠ GF+ // Aspiracje szlemikowe na 6+♣
 	3c Transfer na 3♦ - SO na ♦ // 5+♦ + 4+♣ bez aspiracji szlemikowych // 5+♦ + 4♥/♠ GF+ // Aspiracje szlemikowe na 6+♦
-	3d Transfer na ♥ - Aspiracje szlemikowe, możliwy kolor młodszy 4+
+	3d Transfer na ♥ - Aspiracje szlemikowe, możliwy kolor młodszy 4+	
 	3h Transfer na ♠ - Siła na końcówkę // aspiracje szlemikowe, możliwy kolor młodszy 4+
 	3s Transfer na 3NT - chęć gry 3NT // aspiracje szlemikowe na obu młodszych
 	3nt Aspiracje szlemikowe 1♠444
@@ -354,7 +448,7 @@
 		@Pierwszy wolny szczebel poza kolorami odpowiedzi pyta o asy BW711 na kolorze młodszym
 		@Drugi wolny szczebel poza kolorami odpowiedzi pyta o asy BW711 na ♠
 	3c Pasuj albo popraw
-	3d Inwit do 4c
+	3d Inwit do 4♠
 	3s Przedłużenie bloku
 	3nt Do gry
 	4c Pasuj albo popraw, oba fity młodsze, raczej blokujące
@@ -395,7 +489,7 @@
 		3h Minimum honorowe - może być jedna starsza figura z podwiązanym kolorem
 			3s Pytanie o krótkość
 				3nt Brak krótkości
-				4c Krótkośc ♠
+				4c Krótkość ♠
 				4d Krótkość ♦
 				4h Krótkość ♥
 			3nt Do gry
@@ -487,13 +581,20 @@
 3h naturalne, blokujące
 3s naturalne, blokujące
 3nt GAMBLING, pełny kolor młodszy 7+kart, bez bocznego dojścia
+	4c Pasuj albo popraw
+	4d Pytanie o krótkość
+		4h Krótkość	♥
+		4s Krótkość ♣
+		4nt Krótkość młodsza
+		5c 2227♣
+		5d 227♦2
 4c naturalne, blokujące
 4d naturalne, blokujące
 4h naturalne, blokujące
 4s naturalne, blokujące
 4nt Pytanie o asy na 4 wartości 
 
-@Zmiany otwarć na 3-cim ręku(po pasie partnera):
+@Zmiany otwarć na 3-cim ręku (po pasie partnera):
 !1h może być zarówno podlimitowe, jak i 4-kart na wist
 !1s może być zarówno podlimitowe, jak i 4-kart na wist
 !3c 2-14 5+♣, do pasa, brak perspektyw na końcówkę
